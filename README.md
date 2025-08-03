@@ -20,3 +20,10 @@ python app.py
 
 ## 📄 License
 MIT License - see LICENSE file for details.
+
+## Dependicies:
+- pandas
+- numpy
+- matplotlib
+- opencv
+
