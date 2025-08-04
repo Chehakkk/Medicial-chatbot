@@ -11,7 +11,7 @@ An AI-powered medical chatbot for healthcare assistance and symptom analysis usi
 
 ## 🚀 Quick Start
 ```bash
-git clone <repository-url>
+git clone https://github.com/Chehakkk/Medicial-chatbot.git
 pip install -r requirements.txt
 python app.py
 ```
